@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, im just a noob haha
 - 🌱 I’m currently learning Angular and Spring.
 - 💞️ I’m looking to collaborate on my own particular projects
-- 📫 How to reach me ...
+- 📫 How to reach me, you dont im reach you!
 
 <!---
 EngSaar/EngSaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
